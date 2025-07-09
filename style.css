@@ -692,6 +692,12 @@ html, body {
   body {
     padding-top: 160px;
   }
+  .hero,
+.payment-plan,
+.developer-section {
+  background-attachment: scroll !important;
+}
+
 
   .navbar {
     display: flex !important;
